@@ -9,6 +9,7 @@ namespace vjezba1_petra
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
