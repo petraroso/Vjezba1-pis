@@ -7,5 +7,6 @@ namespace vjezba1_petra
 {
     class NewClass
     {
+        void sgita();
     }
 }
