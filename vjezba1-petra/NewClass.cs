@@ -7,6 +7,10 @@ namespace vjezba1_petra
 {
     class NewClass
     {
-         void zbroji();
+
+      
+
+        void sgita();
+
     }
 }
